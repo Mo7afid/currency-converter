@@ -1,7 +1,7 @@
 Usage
 Run the program with:
     ```bash
-python currency.py
+       python currency.py
 
 Then choose an option from the menu.
 Libraries
